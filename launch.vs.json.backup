@@ -1,0 +1,60 @@
+{
+    "configurations": [
+        {
+            "type": "default",
+            "project": "CMakeLists.txt",
+            "projectTarget": "ElektraSimulator.exe",
+            "name": "ElektraSimulator.exe (lightbeamLava)",
+            "args": [
+                "D:\\FiveFifty\\ledmaker.org\\\\App\\GlowIDE\\samples\\lightbeamLava.bin",
+                "D:\\FiveFifty\\ledmaker.org\\App\\GlowIDE\\webview\\webview.html",
+                "D:\\FiveFifty\\ledmaker.org\\App\\GlowIDE\\lib\\stop",
+                "D:\\FiveFifty\\ledmaker.org\\App\\GlowIDE\\lib\\resume"
+            ]
+        },
+        {
+            "type": "default",
+            "project": "CMakeLists.txt",
+            "projectTarget": "ElektraSimulator.exe",
+            "name": "ElektraSimulator.exe (spinner)",
+            "args": [
+                "D:\\FiveFifty\\ledmaker.org\\\\App\\GlowIDE\\samples\\spinner.bin",
+                "D:\\FiveFifty\\ledmaker.org\\App\\GlowIDE\\webview\\webview.html",
+                "D:\\FiveFifty\\ledmaker.org\\App\\GlowIDE\\lib\\stop",
+                "D:\\FiveFifty\\ledmaker.org\\App\\GlowIDE\\lib\\resume"
+            ]
+        },
+        {
+            "type": "default",
+            "project": "CMakeLists.txt",
+            "projectTarget": "ElektraSimulator.exe",
+            "name": "ElektraSimulator.exe (bicycleRearLight)",
+            "args": [
+                "D:\\\\FiveFifty\\\\ledmaker.org\\\\App\\\\GlowIDE\\samples\\bicycleRearLight.bin",
+                "D:\\FiveFifty\\ledmaker.org\\App\\GlowIDE\\webview\\webview.html",
+                "D:\\FiveFifty\\ledmaker.org\\App\\GlowIDE\\lib\\stop",
+                "D:\\FiveFifty\\ledmaker.org\\App\\GlowIDE\\lib\\resume"
+            ]
+        },
+        {
+            "type": "default",
+            "project": "CMakeLists.txt",
+            "projectTarget": "ElektraSimulator.exe",
+            "name": "ElektraSimulator.exe (bicycleTurnSignal)",
+            "args": [
+                "D:\\FiveFifty\\ledmaker.org\\App\\GlowIDE\\samples\\bicycleTurnSignal.bin",
+                "D:\\FiveFifty\\ledmaker.org\\App\\GlowIDE\\webview\\webview.html",
+                "D:\\FiveFifty\\ledmaker.org\\App\\GlowIDE\\lib\\stop",
+                "D:\\FiveFifty\\ledmaker.org\\App\\GlowIDE\\lib\\resume"
+            ]
+        },
+        {
+            "type": "default",
+            "project": "CMakeLists.txt",
+            "projectTarget": "ElektraSimulator.exe",
+            "name": "ElektraSimulator.exe"
+        }
+    ],
+    "defaults": {},
+    "version": "0.2.1"
+}
